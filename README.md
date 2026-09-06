@@ -21,9 +21,9 @@ ld program.o -o program
 > Below are the operators that can be used in the second argument.
 
 
-# Using Instructions section
+#Using Instructions section
 
-# OPERATORS                        
+OPERATORS                        
 |operators | Function |
 | ---      | ---      |
 |    +     |   ADD    |
@@ -34,7 +34,7 @@ ld program.o -o program
 
 
 
- # TABLE OF ARGS
+TABLE OF ARGS
  |   ARG       | Possible contents               |
  | ---         | ---                             |
  |    ARG1     |   number 0x00 - 0xFFF           |
