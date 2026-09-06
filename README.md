@@ -43,4 +43,5 @@ TABLE OF ARGS
  |    ARG2     |   operator from table operators |
  |    ARG3     |   number 0x00 - 0xFFF           |
 
-
+License: GNU GPL 2.0
+Author: 042-bit
