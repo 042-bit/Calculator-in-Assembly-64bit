@@ -28,7 +28,7 @@
 
 # Nasm to object compile
 ```console
-nasm -f elf64 calc.asm -o program.o
+nasm -f elf64 program.asm -o program.o
 ```
 
 # Linker to executable
