@@ -7,10 +7,10 @@
 > [!Note]
 > Below are the operators that can be used in the second argument.
 
-
-|operators | Function |
-| ---      | ---      |
-|    +     |   ADD    |
-|    -     |   SUB    |
-|    *     |   MUL    |
+# OPERATORS                         # TABLE OF ARGS
+|operators | Function |             |   ARG       | Possible contents               |
+| ---      | ---      |             | ---         | ---                             |
+|    +     |   ADD    |             |    ARG1     |   number 0x00 - 0xFF            |
+|    -     |   SUB    |             |    ARG2     |   operator from table operators |
+|    *     |   MUL    |             |    ARG3     |   number 0x00 - 0xFF            |
 |    /     |  DIV     |
