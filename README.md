@@ -18,6 +18,6 @@
  # TABLE OF ARGS
  |   ARG       | Possible contents               |
  | ---         | ---                             |
- |    ARG1     |   number 0x00 - 0xFF            |
+ |    ARG1     |   number 0x00 - 0xFFF           |
  |    ARG2     |   operator from table operators |
- |    ARG3     |   number 0x00 - 0xFF            |
+ |    ARG3     |   number 0x00 - 0xFFF           |
