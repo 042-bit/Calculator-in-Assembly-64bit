@@ -24,12 +24,14 @@
 
 
 > [!Note]
-> file must be compiled
+> file must be compiled below we have a compilation linux command
 
+# Nasm to object compile
 ```console
 nasm -f elf64 calc.asm -o program.o
 ```
 
+# Linker to executable
 ```console
 ld program.o -o program
 ```
