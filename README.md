@@ -3,13 +3,13 @@
 # Compile Program
 
 
-# Nasm to object compile
+## Nasm to object compile
 ```console
 nasm -f elf64 program.asm -o program.o
 ```
 
 
-# Linker to executable
+## Linker to executable
 ```console
 ld program.o -o program
 ```
