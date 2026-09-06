@@ -99,70 +99,70 @@ jmp .swap_arg_one
 	je .swap_arg_three
 	
 
-.add0sd:
+.add0:
 
     mov al, 0x00
     mov byte [arg1_buff + rcx], al
 	add rcx, 1 
 	jmp .swap_arg_one
 
-.add1sd:
+.add1:
 
     mov byte al, 0x01
     mov byte [arg1_buff + rcx], al
 	add rcx, 1 
     jmp .swap_arg_one
 
-.add2sd:
+.add2:
 
     mov byte al, 0x02
     mov byte[arg1_buff + rcx], al
 	add rcx, 1 
     jmp .swap_arg_one
 
-.add3sd:
+.add3:
 
     mov byte al, 0x03
     mov byte[arg1_buff + rcx], al
 	add rcx, 1 
     jmp .swap_arg_one
 
-.add4sd:
+.add4:
 
     mov byte al, 0x04
     mov byte [arg1_buff + rcx], al
 	add rcx, 1 
 	jmp .swap_arg_one
 
-.add5sd:
+.add5:
 
     mov byte al, 0x05
     mov byte [arg1_buff + rcx], al
 	add rcx, 1 
     jmp .swap_arg_one
 
-.add6sd:
+.add6:
 
     mov byte al, 0x06
     mov byte [arg1_buff + rcx], al
 	add rcx, 1 
     jmp .swap_arg_one
 
-.add7sd:
+.add7:
 
     mov byte al, 0x07
     mov byte [arg1_buff + rcx], al
 	add rcx, 1 
     jmp .swap_arg_one
 
-.add8sd:
+.add8:
 
     mov byte al, 0x08
     mov byte [arg1_buff + rcx], al
 	add rcx, 1 
     jmp .swap_arg_one
 
-.add9sd:
+.add9:
 	
 	mov byte al, 0x09
     mov byte [arg1_buff + rcx], al
