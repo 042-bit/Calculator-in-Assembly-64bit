@@ -6,6 +6,8 @@
 
 > [Note]
 > Below are the operators that can be used in the second argument.
+
+
 |operators | Function |
 | ---      | ---      |
 |    +     |   ADD    |
