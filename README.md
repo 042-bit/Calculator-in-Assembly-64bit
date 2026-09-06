@@ -1,19 +1,18 @@
-# Calculator-in-Assembly-64bit
-
 # Compile Program
 
 
-## Nasm to object compile
+Nasm to object compile
 ```console
 nasm -f elf64 program.asm -o program.o
 ```
 
 
-## Linker to executable
+Linker to executable
 ```console
 ld program.o -o program
 ```
 
+# Info / Waring section
 > [!Warning]
 > Calculator can calc only numbers between 0x00 to 0xFFF ( 4095 )
 
@@ -22,7 +21,7 @@ ld program.o -o program
 > Below are the operators that can be used in the second argument.
 
 
-# Using Instructions
+# Using Instructions section
 
 # OPERATORS                        
 |operators | Function |
