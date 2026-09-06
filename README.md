@@ -7,6 +7,6 @@
 |operators | Function |
 | ---      | ---      |
 |    +     |   ADD    |
-|    _     |   SUB    |
+|    -     |   SUB    |
 |    *     |   MUL    |
 |    /     |  DIV     |
