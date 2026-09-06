@@ -21,7 +21,7 @@ ld program.o -o program
 > Below are the operators that can be used in the second argument.
 
 
-#Using Instructions section
+# Using Instructions section
 
 OPERATORS                        
 |operators | Function |
