@@ -15,9 +15,7 @@ ld program.o -o program
 # Info / Waring section
 > [!Warning]
 > Calculator can calc only numbers between 0x00 to 0xFFF ( 4095 )
-
-> [!Warning]
-> file must be compiled 
+> file must be compiled
 
 > [!Note]
 > Below are the operators that can be used in the second argument.
