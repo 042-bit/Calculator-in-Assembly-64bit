@@ -21,3 +21,15 @@
  |    ARG1     |   number 0x00 - 0xFFF           |
  |    ARG2     |   operator from table operators |
  |    ARG3     |   number 0x00 - 0xFFF           |
+
+
+> [!Note]
+> file must be compiled
+
+```console
+nasm -f elf64 calc.asm -o program.o
+```
+
+```console
+ld program.o -o program
+```
