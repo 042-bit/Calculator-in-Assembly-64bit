@@ -16,6 +16,8 @@ ld program.o -o program
 > [!Warning]
 > Calculator can calc only numbers between 0x00 to 0xFFF ( 4095 )
 
+> [!Waring]
+> file must be compiled below we have a compilation linux command
 
 > [!Note]
 > Below are the operators that can be used in the second argument.
@@ -41,9 +43,4 @@ TABLE OF ARGS
  |    ARG2     |   operator from table operators |
  |    ARG3     |   number 0x00 - 0xFFF           |
 
-
-
-
-> [!Note]
-> file must be compiled below we have a compilation linux command
 
